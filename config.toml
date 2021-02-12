@@ -1,0 +1,4 @@
+baseURL = "https://roomroomuese.vercel.app"
+languageCode = "en-us"
+title = "Room Decor Item"
+theme = "hugo-theme-minos"
